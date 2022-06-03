@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!--Google Font-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <!--LNR Icons-->
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+    <!--Font Awesome-->
+    <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
+        integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous" />
+
+
+    <!--Main CSS-->
+    <link rel="stylesheet" href="style.css">
+
+
+    <title>Esma Nur Karakuş</title>
+</head>
+
+<body>
+    <div class="page-content">
+        <div class="menu-toggle">
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+        <div class="mobile-right-panel">
+            <div class="right-panel-content">
+                <div class="header-content">
+                    <div class="header-photo">
+                        <img class="header-image" src="img/me.jpg" alt="">
+                    </div>
+                    <h2>Esma Nur Karakuş</h2>
+                    <p class="content-opacity">Jr. Developer</p>
+                </div>
+                <ul class="social-links-mobile">
+                    <li><a href="" id="main-page-mobile">Ana Sayfa</a></li>
+                    <li><a href="" id="about-me-mobile">Hakkında</a></li>
+                    <li><a href="" id="resume-mobile">Eğitim</a></li>
+                    <li><a href="" id="contact-mobile">İletişim</a></li>
+                </ul>
+                <div class="social-links">
+                    <a class="icons" href="https://www.linkedin.com/in/esma-nur-karakus/" target="_blank"><i
+                            class="fab fa-linkedin-in"></i></a>
+                    <a class="icons" href="https://github.com/esmaakarakuus" target="_blank"><i
+                            class="fab fa-github"></i></a>
+                </div>
+                <div class="download-cv">
+                    <a target="_blank" class="btn cv"
+                        href="https://drive.google.com/file/d/1-mMAW4teducGgOzZ0U-TG8sw7ASK-Ub5/view?usp=sharing">Özgeçmişi İndir</a>
+
+                </div>
+                <div class="rights">
+                    <p class="content-opacity">© 2022 All rights reserved. </p>
+                </div>
+            </div>
+</body>
+
+</html>
