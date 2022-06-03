@@ -1,3 +1,2 @@
 # WebProgramalama
-Test1 
-deneme
+HTML,CSS,JS ile yaılmış kişisel web sitem.
